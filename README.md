@@ -20,7 +20,7 @@ Este dashboard é projetado para monitorar as vendas de produtos de maquiagem da
 
 Para visualizar a análise detalhada de vendas e as visualizações, consulte o link abaixo:
 
-([Link do Dashboard](https://app.powerbi.com/groups/me/reports/747e959e-d67e-426c-963f-a6aac983ea45/975ddff399c05546930a?experience=power-bi)
+[Acessar o Dashboard](https://app.powerbi.com/groups/me/reports/747e959e-d67e-426c-963f-a6aac983ea45/975ddff399c05546930a?experience=power-bi)
 
 ## Como Usar
 
