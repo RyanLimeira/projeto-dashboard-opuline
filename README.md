@@ -17,10 +17,3 @@ Este dashboard é projetado para monitorar as vendas de produtos de maquiagem da
 
 ![Análise de Vendas](Imagem-dashboard-vendas.jpg)
 ![Análise de Produtos](Imagem-dashboard-produtos.jpg)
-
-## Como Usar
-
-1. **Requisitos**: Certifique-se de ter acesso ao Power BI para visualizar o dashboard.
-2. **Acesso ao Dashboard**: O dashboard pode ser acessado através do link compartilhado.
-3. **Interação**: Utilize os filtros e seleções disponíveis para explorar diferentes visualizações e insights.
-
